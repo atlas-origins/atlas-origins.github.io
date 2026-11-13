@@ -1,0 +1,40 @@
+{
+  "file_count": 9,
+  "files": {
+    ".nojekyll": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "about/index.html": {
+      "bytes": 2183,
+      "sha256": "d0c1e2db892ab033433e50bace184a6a124a138de37bde9d8995ed09ac0b39c7"
+    },
+    "assets/search.js": {
+      "bytes": 722,
+      "sha256": "c82216caff27388e32506def9eb0bf52d40bc5de5d79ace1dc2a5d202728b800"
+    },
+    "assets/site.css": {
+      "bytes": 5891,
+      "sha256": "869ff60505e166e7dd6dce18b8d01eb6d8d4c18db4a049a482836276d665c349"
+    },
+    "atlas/index.html": {
+      "bytes": 2710,
+      "sha256": "e46656fc366c9963a442ffa64615da2ef1a897813da26ec901562e92d983472b"
+    },
+    "guides/index.html": {
+      "bytes": 2562,
+      "sha256": "45bb5e37321b823d8942f6ad751de73174cd3cf089381617de738719dcdfb698"
+    },
+    "index.html": {
+      "bytes": 3096,
+      "sha256": "c6bf67bd239a34031f2cdefabc6b52cb655cf163e922eed2e118566fd546e393"
+    },
+    "kits/index.html": {
+      "bytes": 3634,
+      "sha256": "3e2e91bbaf6ed8c4d8be66779f098772ee58c7d6a997f5e38b9997f7c5b6fc00"
+    }
+  },
+  "mode": "public",
+  "schema": "atlas-origins-static-build-v1",
+  "visible_product_count": 0
+}
