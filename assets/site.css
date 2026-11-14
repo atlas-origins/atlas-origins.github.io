@@ -4,3 +4,9 @@
 @media(max-width:850px){.card-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.header-inner{align-items:flex-start;flex-direction:column;padding-block:17px;gap:12px}.site-header nav{gap:16px}}
 @media(max-width:610px){.shell{width:min(100% - 28px,1160px)}.hero{padding:53px 0}.two-grid,.card-grid,.goal-grid{grid-template-columns:1fr}.section{padding-block:38px}.site-header nav{gap:14px}.site-header nav a{font-size:.82rem}.feature,.panel,.tool-card{padding:20px}.filters{align-items:stretch;flex-direction:column}.filters input{min-width:0;width:100%;flex:0 0 auto}}
 @media(prefers-reduced-motion:reduce){*,*::before,*::after{scroll-behavior:auto!important;transition:none!important;animation:none!important}}
+
+.stat-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:13px;max-width:660px;margin-top:28px}
+.stat{border:1px solid #557982;background:#ffffff10;padding:15px 18px;border-radius:10px;min-width:0;display:flex;flex-direction:column;gap:1px}
+.stat strong{font-size:clamp(1.6rem,3vw,2.1rem);line-height:1.15;color:#fff;letter-spacing:-.02em}
+.stat span{color:#d3e8e9;font-size:.85rem;line-height:1.35}
+@media(max-width:610px){.stat-grid{gap:7px}.stat{padding:12px 9px}.stat strong{font-size:1.47rem}.stat span{font-size:.75rem}}

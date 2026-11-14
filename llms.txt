@@ -1,0 +1,21 @@
+# Atlas Origins
+
+> Independent Atlas engineering tools and Muse Specialist Toolkit for Meta Muse. The Muse toolkit v1.0.0 includes 15 specialist profiles, 100 task starters, 75 developed skills, 25 workflows, 151 custom connectors, executable tools and Daily Desk.
+
+## Public site
+- [Atlas Origins](https://atlas-origins.github.io/)
+- [Muse Specialist Toolkit](https://atlas-origins.github.io/kits/)
+- [Atlas engineering tools](https://atlas-origins.github.io/atlas/)
+- [Guides and downloads](https://atlas-origins.github.io/guides/)
+- [About](https://atlas-origins.github.io/about/)
+
+## Muse Specialist Toolkit
+- [Published V1.0.0 release](https://github.com/sethburkhardt21-dev/muse-ai-agent-presets/releases/tag/v1.0.0)
+- [Repository and source](https://github.com/sethburkhardt21-dev/muse-ai-agent-presets)
+- [First-use instructions](https://github.com/sethburkhardt21-dev/muse-ai-agent-presets/blob/main/docs/v1/START_HERE.md)
+- [Specialist catalog](https://github.com/sethburkhardt21-dev/muse-ai-agent-presets/blob/main/docs/collection/SPECIALIST_CATALOG.md)
+- [Actual executable capabilities](https://github.com/sethburkhardt21-dev/muse-ai-agent-presets/blob/main/docs/CAPABILITIES.md)
+- [Custom connector directory](https://github.com/sethburkhardt21-dev/muse-ai-agent-presets/blob/main/docs/connectors/CATALOG.md)
+- [Daily Desk](https://github.com/sethburkhardt21-dev/muse-ai-agent-presets/blob/main/docs/spaces/DAILY_DESK.md)
+
+These are source and setup references. An assistant's account, permissions and native tool installation belong to the receiving Muse host. Atlas engineering tool releases are separate from the published Muse V1.

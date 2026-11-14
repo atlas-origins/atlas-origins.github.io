@@ -1,40 +1,52 @@
 {
-  "file_count": 9,
+  "file_count": 11,
   "files": {
     ".nojekyll": {
       "bytes": 0,
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     "about/index.html": {
-      "bytes": 2183,
-      "sha256": "d0c1e2db892ab033433e50bace184a6a124a138de37bde9d8995ed09ac0b39c7"
+      "bytes": 3303,
+      "sha256": "c6653e9b79b02448ba0e57c8a9d29e08120a233ba7720d7a90b8273a1758b8ab"
     },
     "assets/search.js": {
       "bytes": 722,
       "sha256": "c82216caff27388e32506def9eb0bf52d40bc5de5d79ace1dc2a5d202728b800"
     },
     "assets/site.css": {
-      "bytes": 5891,
-      "sha256": "869ff60505e166e7dd6dce18b8d01eb6d8d4c18db4a049a482836276d665c349"
+      "bytes": 6435,
+      "sha256": "4dd12392d3659151c76841f51bccbd81b6d1d4785f863b05956317e837c6fcd8"
     },
     "atlas/index.html": {
-      "bytes": 2710,
-      "sha256": "e46656fc366c9963a442ffa64615da2ef1a897813da26ec901562e92d983472b"
+      "bytes": 3102,
+      "sha256": "19ccc0fe44e98fde8edeef1c691adee038f99e7fa82418202f425845c290a683"
     },
     "guides/index.html": {
-      "bytes": 2562,
-      "sha256": "45bb5e37321b823d8942f6ad751de73174cd3cf089381617de738719dcdfb698"
+      "bytes": 3722,
+      "sha256": "badb5b29f6733575f67efbdc8491e240b851205984fd6826f667136eb2c7c906"
     },
     "index.html": {
-      "bytes": 3096,
-      "sha256": "c6bf67bd239a34031f2cdefabc6b52cb655cf163e922eed2e118566fd546e393"
+      "bytes": 3865,
+      "sha256": "52ec55ef24e2e52c78b95d489fa52aebd4e6deb6bb56e0de4f686dcceb43b288"
     },
     "kits/index.html": {
-      "bytes": 3634,
-      "sha256": "3e2e91bbaf6ed8c4d8be66779f098772ee58c7d6a997f5e38b9997f7c5b6fc00"
+      "bytes": 7406,
+      "sha256": "ae36c086fcf66a1ff2cd397f135c949e9e66d1df8702d84f8c9b995dd560b502"
+    },
+    "llms.txt": {
+      "bytes": 1649,
+      "sha256": "f3a43558b21729aaa08acebfe4545e8cc10227e015d9992230ecbf9e70b4e89b"
+    },
+    "robots.txt": {
+      "bytes": 76,
+      "sha256": "c105eb9cc48498ef56ee008d83a20a15e6fc4943c1b969f58a15495e05ca5dfc"
+    },
+    "sitemap.xml": {
+      "bytes": 419,
+      "sha256": "b1719c940a23fd9fd32cc0e7eec77425f8cef8c2f04462e2718a36e3a60d98ee"
     }
   },
   "mode": "public",
   "schema": "atlas-origins-static-build-v1",
-  "visible_product_count": 0
+  "visible_product_count": 1
 }
