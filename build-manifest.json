@@ -6,8 +6,8 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     "about/index.html": {
-      "bytes": 3303,
-      "sha256": "c6653e9b79b02448ba0e57c8a9d29e08120a233ba7720d7a90b8273a1758b8ab"
+      "bytes": 3297,
+      "sha256": "823593bbfca10569a16d49589139e966dfd4040326033bb53c1f580cbed08c12"
     },
     "assets/search.js": {
       "bytes": 722,
@@ -22,20 +22,20 @@
       "sha256": "19ccc0fe44e98fde8edeef1c691adee038f99e7fa82418202f425845c290a683"
     },
     "guides/index.html": {
-      "bytes": 3722,
-      "sha256": "badb5b29f6733575f67efbdc8491e240b851205984fd6826f667136eb2c7c906"
+      "bytes": 3692,
+      "sha256": "79e3b797752aa1b37a085c22b25a04f4783cfb78200f53d03ee64e4868eeb906"
     },
     "index.html": {
-      "bytes": 3865,
-      "sha256": "52ec55ef24e2e52c78b95d489fa52aebd4e6deb6bb56e0de4f686dcceb43b288"
+      "bytes": 3853,
+      "sha256": "ff46bc6e57e40c8ef5adf65ca7603d10ac2c2c985a53822112e88658f98b4b6b"
     },
     "kits/index.html": {
-      "bytes": 7406,
-      "sha256": "ae36c086fcf66a1ff2cd397f135c949e9e66d1df8702d84f8c9b995dd560b502"
+      "bytes": 7328,
+      "sha256": "b6ab4caf419df4f111068d48ddae160e56eae96e9b5abe9781fadc54acbecc2f"
     },
     "llms.txt": {
-      "bytes": 1649,
-      "sha256": "f3a43558b21729aaa08acebfe4545e8cc10227e015d9992230ecbf9e70b4e89b"
+      "bytes": 1607,
+      "sha256": "b0642ef162db117169a95132880c201a0a78101ae7d954ec273f17107533c544"
     },
     "robots.txt": {
       "bytes": 76,
