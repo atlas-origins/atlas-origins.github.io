@@ -10,12 +10,12 @@
 - [About](https://atlas-origins.github.io/about/)
 
 ## Muse Specialist Toolkit
-- [Published V1.0.0 release](https://github.com/sethburkhardt21-dev/muse-ai-agent-presets/releases/tag/v1.0.0)
-- [Repository and source](https://github.com/sethburkhardt21-dev/muse-ai-agent-presets)
-- [First-use instructions](https://github.com/sethburkhardt21-dev/muse-ai-agent-presets/blob/main/docs/v1/START_HERE.md)
-- [Specialist catalog](https://github.com/sethburkhardt21-dev/muse-ai-agent-presets/blob/main/docs/collection/SPECIALIST_CATALOG.md)
-- [Actual executable capabilities](https://github.com/sethburkhardt21-dev/muse-ai-agent-presets/blob/main/docs/CAPABILITIES.md)
-- [Custom connector directory](https://github.com/sethburkhardt21-dev/muse-ai-agent-presets/blob/main/docs/connectors/CATALOG.md)
-- [Daily Desk](https://github.com/sethburkhardt21-dev/muse-ai-agent-presets/blob/main/docs/spaces/DAILY_DESK.md)
+- [Published V1.0.0 release](https://github.com/atlas-origins/muse-ai-agent-presets/releases/tag/v1.0.0)
+- [Repository and source](https://github.com/atlas-origins/muse-ai-agent-presets)
+- [First-use instructions](https://github.com/atlas-origins/muse-ai-agent-presets/blob/main/docs/v1/START_HERE.md)
+- [Specialist catalog](https://github.com/atlas-origins/muse-ai-agent-presets/blob/main/docs/collection/SPECIALIST_CATALOG.md)
+- [Actual executable capabilities](https://github.com/atlas-origins/muse-ai-agent-presets/blob/main/docs/CAPABILITIES.md)
+- [Custom connector directory](https://github.com/atlas-origins/muse-ai-agent-presets/blob/main/docs/connectors/CATALOG.md)
+- [Daily Desk](https://github.com/atlas-origins/muse-ai-agent-presets/blob/main/docs/spaces/DAILY_DESK.md)
 
 These are source and setup references. An assistant's account, permissions and native tool installation belong to the receiving Muse host. Atlas engineering tool releases are separate from the published Muse V1.
