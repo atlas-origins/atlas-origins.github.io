@@ -30,12 +30,12 @@
       "sha256": "ff46bc6e57e40c8ef5adf65ca7603d10ac2c2c985a53822112e88658f98b4b6b"
     },
     "kits/index.html": {
-      "bytes": 8602,
-      "sha256": "97887506112611e54083547d415edbdaff8bcd78da88bfb116cc84e229bc4e9e"
+      "bytes": 8600,
+      "sha256": "e844c4b6c818fa6638140e8c56b682337ea51ff1e3b044b3ae6abb833a7ad5de"
     },
     "llms.txt": {
-      "bytes": 1607,
-      "sha256": "b0642ef162db117169a95132880c201a0a78101ae7d954ec273f17107533c544"
+      "bytes": 1606,
+      "sha256": "fedbc5d8e563c0214962525759dc06be090702861dcbab878e5a07d36c6321cc"
     },
     "robots.txt": {
       "bytes": 76,
