@@ -1,0 +1,831 @@
+{
+  "count": 63,
+  "items": [
+    {
+      "category": "Official SDKs",
+      "id": "MH-001",
+      "install_method": "Clone/build platform sample with SDK token",
+      "license_class": "PER_FILE",
+      "name": "Muse Gadgets SDK",
+      "platform": "ESP32 · Linux",
+      "route_tags": [
+        "watch",
+        "companion"
+      ],
+      "summary": "Meta's ESP32/Linux Gadget SDK, pairing protocol, sensors, display and audio interfaces.",
+      "url": "https://github.com/facebookincubator/muse-gadget-sdk"
+    },
+    {
+      "category": "Official SDKs",
+      "id": "MH-002",
+      "install_method": "Read before any token use",
+      "license_class": "SERVICE_OR_DOCS",
+      "name": "Meta Gadget SDK Token Terms",
+      "platform": "See project requirements",
+      "route_tags": [],
+      "summary": "Token usage and distribution terms distinct from source license.",
+      "url": "https://gadgets.muse.ai/sdk-terms"
+    },
+    {
+      "category": "Official SDKs",
+      "id": "MH-003",
+      "install_method": "Follow CLI install and sign-in",
+      "license_class": "SERVICE_OR_DOCS",
+      "name": "Meta Muse Code CLI",
+      "platform": "See project requirements",
+      "route_tags": [],
+      "summary": "Official Muse Code terminal coding agent; distinct product from personal Muse.",
+      "url": "https://dev.meta.ai/docs/muse-code"
+    },
+    {
+      "category": "Official SDKs",
+      "id": "MH-004",
+      "install_method": "Responses API with local driver",
+      "license_class": "SERVICE_OR_DOCS",
+      "name": "Meta Model API Computer Use",
+      "platform": "See project requirements",
+      "route_tags": [
+        "desktop"
+      ],
+      "summary": "Computer tool action protocol for API agents; user supplies desktop driver and screenshots.",
+      "url": "https://dev.meta.ai/docs/computer-use"
+    },
+    {
+      "category": "Official SDKs",
+      "id": "MH-005",
+      "install_method": "Install official mobile/watch app",
+      "license_class": "SERVICE_OR_DOCS",
+      "name": "Muse on Apple Watch / Wear OS",
+      "platform": "Apple Watch · Wear OS",
+      "route_tags": [
+        "watch"
+      ],
+      "summary": "App companion announced November 9, 2026; voice, text, dictation.",
+      "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/"
+    },
+    {
+      "category": "Skills and catalogs",
+      "id": "MH-015",
+      "install_method": "Link/search, then review and dedup per item",
+      "license_class": "PER_FILE",
+      "name": "Awesome Muse Skills",
+      "platform": "See project requirements",
+      "route_tags": [],
+      "summary": "901 original SKILL.md paths and 1,749 top-level imported skills at pinned tree; code chiefly in imports.",
+      "url": "https://github.com/aicodedecode/awesome-muse-skills"
+    },
+    {
+      "category": "Skills and catalogs",
+      "id": "MH-016",
+      "install_method": "Already indexed in V1; link to source",
+      "license_class": "MIT",
+      "name": "Muse Connectors",
+      "platform": "See project requirements",
+      "route_tags": [],
+      "summary": "151 connector packages with Python code and SKILL.md manifests.",
+      "url": "https://github.com/bluman1/muse-connectors"
+    },
+    {
+      "category": "Skills and catalogs",
+      "id": "MH-017",
+      "install_method": "Link and compare metadata, avoid duplicate code",
+      "license_class": "PER_FILE",
+      "name": "Awesome Muse Connectors",
+      "platform": "See project requirements",
+      "route_tags": [],
+      "summary": "Alternative connector directory with upstream community copies and role briefs.",
+      "url": "https://github.com/Anil-matcha/awesome-muse-connectors"
+    },
+    {
+      "category": "Skills and catalogs",
+      "id": "MH-018",
+      "install_method": "Select source-tested modules, review dependency closure",
+      "license_class": "PER_FILE",
+      "name": "Muse Skills by Israelmusondaayliffe",
+      "platform": "See project requirements",
+      "route_tags": [],
+      "summary": "31 SKILL.md entries, included controllers, tests, script references and workflow gates.",
+      "url": "https://github.com/Israelmusondaayliffe/muse-skills"
+    },
+    {
+      "category": "Skills and catalogs",
+      "id": "MH-019",
+      "install_method": "Item-level review for reusable code",
+      "license_class": "MIT",
+      "name": "Muse Skills by ExaltedTunic",
+      "platform": "See project requirements",
+      "route_tags": [],
+      "summary": "18 purpose-oriented skills including privacy scanner, memory audit, and schema migration safety.",
+      "url": "https://github.com/ExaltedTunic/muse-skills"
+    },
+    {
+      "category": "Skills and catalogs",
+      "id": "MH-020",
+      "install_method": "Reference-only until origin rights checked",
+      "license_class": "NO_ROOT_LICENSE",
+      "name": "Muse Skills Hatch snapshot",
+      "platform": "See project requirements",
+      "route_tags": [],
+      "summary": "Daily mirror of Hatch skill tree for historical compatibility.",
+      "url": "https://github.com/obra/muse-skills"
+    },
+    {
+      "category": "Skills and catalogs",
+      "id": "MH-021",
+      "install_method": "Use public findings as compatibility reference",
+      "license_class": "NO_ROOT_LICENSE",
+      "name": "Muse runtime and binary archive",
+      "platform": "See project requirements",
+      "route_tags": [],
+      "summary": "Hourly mirror of skill trees, extracted binary prompt fragments and provenance maps.",
+      "url": "https://github.com/sneakers-the-rat/muse-skills"
+    },
+    {
+      "category": "Skills and catalogs",
+      "id": "MH-022",
+      "install_method": "Reference and interoperability study only",
+      "license_class": "NO_ROOT_LICENSE",
+      "name": "Muse runtime snapshot win4r",
+      "platform": "See project requirements",
+      "route_tags": [],
+      "summary": "Partial Hatch runtime snapshot and Chinese technical analysis.",
+      "url": "https://github.com/win4r/MuseAI-Skills"
+    },
+    {
+      "category": "Skills and catalogs",
+      "id": "MH-023",
+      "install_method": "Link out with grounded descriptions",
+      "license_class": "UNKNOWN",
+      "name": "Awesome Muse community map",
+      "platform": "See project requirements",
+      "route_tags": [],
+      "summary": "Curated central index of tools, devices, examples and safety articles.",
+      "url": "https://github.com/cszach/awesome-muse"
+    },
+    {
+      "category": "Skills and catalogs",
+      "id": "MH-024",
+      "install_method": "Do not repeat cookie-sharing instructions",
+      "license_class": "NO_ROOT_LICENSE",
+      "name": "Muse 300 tips",
+      "platform": "See project requirements",
+      "route_tags": [],
+      "summary": "300 Chinese-language task recipes.",
+      "url": "https://github.com/jasonbitsmith/muse-skills"
+    },
+    {
+      "category": "Unofficial backends",
+      "id": "MH-025",
+      "install_method": "Clone and run upstream CLI after reviewing its auth route",
+      "license_class": "REPORTED_UNVERIFIED",
+      "name": "muse-cli by nikships",
+      "platform": "See project requirements",
+      "route_tags": [
+        "cli"
+      ],
+      "summary": "Direct authenticated encrypted Muse gateway client with side chats, sessions, feed, goals and method map.",
+      "url": "https://github.com/nikships/muse-cli"
+    },
+    {
+      "category": "Unofficial backends",
+      "id": "MH-026",
+      "install_method": "Follow upstream Docker/local instructions for own accounts",
+      "license_class": "REPORTED_UNVERIFIED",
+      "name": "muse2api by czg86389-hub",
+      "platform": "See project requirements",
+      "route_tags": [],
+      "summary": "OpenAI-compatible API wrapper with account pools and multimedia routes.",
+      "url": "https://github.com/czg86389-hub/muse2api"
+    },
+    {
+      "category": "Unofficial backends",
+      "id": "MH-027",
+      "install_method": "Experimental local clone, private self-hosting",
+      "license_class": "NO_ROOT_LICENSE",
+      "name": "muse2api by TriTue2011",
+      "platform": "See project requirements",
+      "route_tags": [],
+      "summary": "Direct Noise protocol, cookie-bootstrap, OpenAI-compatible REST proxy.",
+      "url": "https://github.com/TriTue2011/muse2api"
+    },
+    {
+      "category": "Unofficial backends",
+      "id": "MH-028",
+      "install_method": "Owner account and Python package install per upstream",
+      "license_class": "NO_ROOT_LICENSE",
+      "name": "MuseAI-API",
+      "platform": "See project requirements",
+      "route_tags": [],
+      "summary": "Python client for Muse/Hatch login, chat history, filesystem and generation downloads.",
+      "url": "https://github.com/minhquan130599/MuseAI-API"
+    },
+    {
+      "category": "Unofficial backends",
+      "id": "MH-029",
+      "install_method": "Follow upstream Chrome/MCP setup",
+      "license_class": "MIT",
+      "name": "Muse Chat MCP",
+      "platform": "See project requirements",
+      "route_tags": [
+        "cli",
+        "family"
+      ],
+      "summary": "Browser-mediated Chrome Playwright MCP and OpenAI-compatible client with seven tools.",
+      "url": "https://github.com/duclm1x1/Muse-Chat-MCP"
+    },
+    {
+      "category": "Unofficial backends",
+      "id": "MH-030",
+      "install_method": "Own logged-in browser; Python package install",
+      "license_class": "UNKNOWN",
+      "name": "muse2api-cli",
+      "platform": "See project requirements",
+      "route_tags": [],
+      "summary": "Browser-backed generation CLI for image and video tasks.",
+      "url": "https://github.com/brixtonpham/muse2api-cli"
+    },
+    {
+      "category": "Unofficial backends",
+      "id": "MH-031",
+      "install_method": "Mac+Python upstream install path",
+      "license_class": "UNKNOWN",
+      "name": "Muse CLI Bridge",
+      "platform": "See project requirements",
+      "route_tags": [
+        "cli",
+        "family"
+      ],
+      "summary": "Personal Muse CLI and bidirectional Codex/Claude bounded-task bridge.",
+      "url": "https://github.com/buzhidaosm/muse-cli-bridge"
+    },
+    {
+      "category": "Unofficial backends",
+      "id": "MH-032",
+      "install_method": "Use only if third-party service desired",
+      "license_class": "UNKNOWN",
+      "name": "useapi Muse API examples",
+      "platform": "See project requirements",
+      "route_tags": [],
+      "summary": "Third-party paid/service-mediated REST example integrations for Muse media and chat.",
+      "url": "https://github.com/useapi/muse-api"
+    },
+    {
+      "category": "Unofficial backends",
+      "id": "MH-033",
+      "install_method": "Follow upstream build guide",
+      "license_class": "UNKNOWN",
+      "name": "Pi Muse Bridge",
+      "platform": "See project requirements",
+      "route_tags": [],
+      "summary": "Connects a Pi coding agent through official Gadget SDK.",
+      "url": "https://github.com/finik/pi-muse-bridge"
+    },
+    {
+      "category": "Unofficial backends",
+      "id": "MH-034",
+      "install_method": "Install Muse Code first, then Helicon",
+      "license_class": "REPORTED_UNVERIFIED",
+      "name": "Muse Code Helicon GUI",
+      "platform": "See project requirements",
+      "route_tags": [],
+      "summary": "Unofficial desktop and VS Code frontend for the separate Muse Code CLI.",
+      "url": "https://github.com/HarjjotSinghh/helicon"
+    },
+    {
+      "category": "Desktop access",
+      "id": "MH-035",
+      "install_method": "npx @wonderwhy-er/desktop-commander@latest remote",
+      "license_class": "PER_FILE",
+      "name": "DesktopCommanderMCP",
+      "platform": "See project requirements",
+      "route_tags": [
+        "desktop",
+        "doors"
+      ],
+      "summary": "Local MCP filesystem and terminal server plus remote device agent.",
+      "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP"
+    },
+    {
+      "category": "Desktop access",
+      "id": "MH-036",
+      "install_method": "Connect paired device and AI client independently",
+      "license_class": "SERVICE_OR_DOCS",
+      "name": "Remote Desktop Commander MCP",
+      "platform": "See project requirements",
+      "route_tags": [
+        "desktop"
+      ],
+      "summary": "Hosted OAuth relay and device dashboard, endpoint https://mcp.desktopcommander.app/mcp.",
+      "url": "https://github.com/desktop-commander/remote-desktop-commander"
+    },
+    {
+      "category": "Desktop access",
+      "id": "MH-037",
+      "install_method": "Install Cua Driver on target desktop; grant local permissions",
+      "license_class": "PER_FILE",
+      "name": "Cua Driver",
+      "platform": "Multiple OS (check upstream)",
+      "route_tags": [
+        "desktop",
+        "doors"
+      ],
+      "summary": "Cross-OS desktop/GUI automation driver and source/SDK.",
+      "url": "https://github.com/trycua/cua"
+    },
+    {
+      "category": "Desktop access",
+      "id": "MH-038",
+      "install_method": "Install via official installer or npm; no execution in this audit",
+      "license_class": "APACHE_2_0",
+      "name": "Codex CLI",
+      "platform": "See project requirements",
+      "route_tags": [
+        "doors"
+      ],
+      "summary": "OpenAI coding agent CLI with MCP client support.",
+      "url": "https://github.com/openai/codex"
+    },
+    {
+      "category": "Desktop access",
+      "id": "MH-039",
+      "install_method": "Upstream Docker/Tailscale setup",
+      "license_class": "APACHE_2_0",
+      "name": "Muse Local Gateway",
+      "platform": "See project requirements",
+      "route_tags": [
+        "desktop"
+      ],
+      "summary": "Scoped local file and container shell gateway via Tailscale for Muse.",
+      "url": "https://github.com/Toddoward/muse-local-gateway"
+    },
+    {
+      "category": "Desktop access",
+      "id": "MH-040",
+      "install_method": "Configure own tailnet and grants",
+      "license_class": "SERVICE_OR_DOCS",
+      "name": "Tailscale",
+      "platform": "See project requirements",
+      "route_tags": [
+        "desktop"
+      ],
+      "summary": "Secure network connectivity, ACLs and SSH between authorized devices.",
+      "url": "https://tailscale.com/kb/"
+    },
+    {
+      "category": "Desktop access",
+      "id": "MH-041",
+      "install_method": "Inspect upstream security and install guide",
+      "license_class": "UNKNOWN",
+      "name": "Muse Mac Connector",
+      "platform": "macOS",
+      "route_tags": [],
+      "summary": "Mac-approved actions through Muse.",
+      "url": "https://github.com/dkm90x/muse-mac-connector"
+    },
+    {
+      "category": "Desktop access",
+      "id": "MH-042",
+      "install_method": "Inspect upstream and use own instance",
+      "license_class": "UNKNOWN",
+      "name": "Muse Proxy",
+      "platform": "See project requirements",
+      "route_tags": [],
+      "summary": "Scoped gateway to self-hosted CalDAV/CardDAV resources.",
+      "url": "https://github.com/NeedsChloesure/muse-proxy"
+    },
+    {
+      "category": "Desktop access",
+      "id": "MH-043",
+      "install_method": "Build supported connector and tests",
+      "license_class": "UNKNOWN",
+      "name": "Agent Connector Launch Kit",
+      "platform": "See project requirements",
+      "route_tags": [],
+      "summary": "OpenAPI connector development and test tooling.",
+      "url": "https://github.com/camirian/agent-connector-launch-kit"
+    },
+    {
+      "category": "Desktop access",
+      "id": "MH-044",
+      "install_method": "Follow upstream installation in isolated device",
+      "license_class": "UNKNOWN",
+      "name": "Burner Android agent skills",
+      "platform": "Android",
+      "route_tags": [],
+      "summary": "Muse skill/CLI for using apps on a spare Android device.",
+      "url": "https://github.com/useburner/burner"
+    },
+    {
+      "category": "Devices and wearables",
+      "id": "MH-045",
+      "install_method": "Build on user Mac with Xcode and Gadget SDK",
+      "license_class": "APACHE_2_0",
+      "name": "Muse Apple Watch SwiftUI",
+      "platform": "Apple Watch · watchOS",
+      "route_tags": [
+        "watch"
+      ],
+      "summary": "Mac CoreBluetooth Gadget bridge and watchOS application with voice flow and complications.",
+      "url": "https://github.com/taichman/muse-watch"
+    },
+    {
+      "category": "Devices and wearables",
+      "id": "MH-046",
+      "install_method": "Build iPhone/watch pair",
+      "license_class": "APACHE_2_0",
+      "name": "Muse Watch iPhone relay",
+      "platform": "See project requirements",
+      "route_tags": [
+        "watch"
+      ],
+      "summary": "WatchConnectivity to iPhone relay with voice notes, chats and bookmarks.",
+      "url": "https://github.com/breno12321/muse-watch"
+    },
+    {
+      "category": "Devices and wearables",
+      "id": "MH-047",
+      "install_method": "Sideload supported watch APK per upstream",
+      "license_class": "APACHE_2_0",
+      "name": "Muse for Wear OS",
+      "platform": "Wear OS",
+      "route_tags": [
+        "watch"
+      ],
+      "summary": "Wear OS Gadget SDK app with direct voice and verified Galaxy Watch tests.",
+      "url": "https://github.com/willbilec/muse-for-wear-os"
+    },
+    {
+      "category": "Devices and wearables",
+      "id": "MH-048",
+      "install_method": "Upstream ADB/APK setup",
+      "license_class": "APACHE_2_0",
+      "name": "Lux Watch",
+      "platform": "Wear OS",
+      "route_tags": [],
+      "summary": "Wear OS voice gadget with watchface.",
+      "url": "https://github.com/arvindavidson/lux-watch"
+    },
+    {
+      "category": "Devices and wearables",
+      "id": "MH-049",
+      "install_method": "Build Android APK from source",
+      "license_class": "APACHE_2_0",
+      "name": "Muse Gadget Everywhere",
+      "platform": "Android",
+      "route_tags": [
+        "companion"
+      ],
+      "summary": "Android phones, tablets and TVs as Gadget SDK endpoints.",
+      "url": "https://github.com/hypery11/muse-gadget-everywhere"
+    },
+    {
+      "category": "Devices and wearables",
+      "id": "MH-050",
+      "install_method": "Follow Mac bridge and glasses web app",
+      "license_class": "APACHE_2_0",
+      "name": "Muse Glasses",
+      "platform": "macOS",
+      "route_tags": [],
+      "summary": "Ray-Ban Display bridge with app UI and agent progress.",
+      "url": "https://github.com/sidart10/muse-glasses"
+    },
+    {
+      "category": "Devices and wearables",
+      "id": "MH-051",
+      "install_method": "Build Xteink X4 Pro firmware",
+      "license_class": "APACHE_2_0",
+      "name": "Muse Pocket",
+      "platform": "See project requirements",
+      "route_tags": [
+        "watch"
+      ],
+      "summary": "E-paper Muse character and status display using Gadget SDK.",
+      "url": "https://github.com/viticci/muse-pocket"
+    },
+    {
+      "category": "Devices and wearables",
+      "id": "MH-052",
+      "install_method": "Follow upstream ESP-IDF provisioning",
+      "license_class": "UNKNOWN",
+      "name": "Muse Gadget Forge",
+      "platform": "See project requirements",
+      "route_tags": [
+        "companion"
+      ],
+      "summary": "Create/build/flash ESP32 Gadget SDK firmware.",
+      "url": "https://github.com/Toddoward/muse-gadget-forge"
+    },
+    {
+      "category": "Devices and wearables",
+      "id": "MH-053",
+      "install_method": "Inspect home template and identity lifecycle",
+      "license_class": "REPORTED_UNVERIFIED",
+      "name": "MuseCondo",
+      "platform": "See project requirements",
+      "route_tags": [],
+      "summary": "Standalone homes, live Tower, resident identity, Soul Vault and social shared spaces.",
+      "url": "https://github.com/mkhsu2002/MuseCondo"
+    },
+    {
+      "category": "Devices and wearables",
+      "id": "MH-054",
+      "install_method": "Follow hardware/firmware guide",
+      "license_class": "UNKNOWN",
+      "name": "Muse R1",
+      "platform": "See project requirements",
+      "route_tags": [],
+      "summary": "Rabbit r1 running Muse Gadget SDK.",
+      "url": "https://github.com/cameronapak/muse-r1"
+    },
+    {
+      "category": "Devices and wearables",
+      "id": "MH-055",
+      "install_method": "Follow macOS source build",
+      "license_class": "UNKNOWN",
+      "name": "Muse Gadget macOS",
+      "platform": "macOS",
+      "route_tags": [],
+      "summary": "Mac CoreBluetooth adapter with browser preview.",
+      "url": "https://github.com/rjohnt/muse-gadget-macos"
+    },
+    {
+      "category": "Devices and wearables",
+      "id": "MH-056",
+      "install_method": "Install add-on after Home Assistant checks",
+      "license_class": "UNKNOWN",
+      "name": "Home Assistant Muse Gadget",
+      "platform": "See project requirements",
+      "route_tags": [],
+      "summary": "Home Assistant add-on for Gadget SDK integration.",
+      "url": "https://github.com/Josh-Archer/homeassistant-addon-muse-gadget"
+    },
+    {
+      "category": "Devices and wearables",
+      "id": "MH-057",
+      "install_method": "Build compatible hardware firmware",
+      "license_class": "UNKNOWN",
+      "name": "Muse Gadget Xiaozhi",
+      "platform": "See project requirements",
+      "route_tags": [],
+      "summary": "ESP32-S3 screen, voice and captions on Xiaozhi boards.",
+      "url": "https://github.com/moerdowo/muse-gadget-xiaozhi"
+    },
+    {
+      "category": "Devices and wearables",
+      "id": "MH-058",
+      "install_method": "Hardware-specific instructions",
+      "license_class": "UNKNOWN",
+      "name": "Muse gadget PSP",
+      "platform": "See project requirements",
+      "route_tags": [],
+      "summary": "Sony PSP port of Gadget SDK.",
+      "url": "https://github.com/wobsoriano/muse-gadget-psp"
+    },
+    {
+      "category": "Devices and wearables",
+      "id": "MH-059",
+      "install_method": "Hardware-specific instructions",
+      "license_class": "UNKNOWN",
+      "name": "Muse mobile/Watch passport",
+      "platform": "See project requirements",
+      "route_tags": [],
+      "summary": "Gadget SDK port for ESP32-C3 FoloToy Passport.",
+      "url": "https://github.com/timzenxia/muse-ai-passport"
+    },
+    {
+      "category": "Anatomy and research",
+      "id": "MH-060",
+      "install_method": "Local artifact analysis after tool setup",
+      "license_class": "UNKNOWN",
+      "name": "REA — Reverse Engineer Anything",
+      "platform": "See project requirements",
+      "route_tags": [],
+      "summary": "Local reverse-engineering toolchain with MCP and CLI analysis routes.",
+      "url": "https://github.com/morluto/rea"
+    },
+    {
+      "category": "Unofficial backends",
+      "id": "MH-064",
+      "install_method": "Inspect upstream README and rights",
+      "license_class": "UNKNOWN",
+      "name": "muse2api media video",
+      "platform": "See project requirements",
+      "route_tags": [],
+      "summary": "Community Muse video-generation API wrapper.",
+      "url": "https://github.com/LIUFelix2004/museAPI-video"
+    },
+    {
+      "category": "Skills and catalogs",
+      "id": "MH-065",
+      "install_method": "Adopt references selectively into Creative Studio",
+      "license_class": "MIT",
+      "name": "Muse visual motion skills",
+      "platform": "See project requirements",
+      "route_tags": [
+        "companion"
+      ],
+      "summary": "One substantial 9:16 Remotion+React animation/video workflow and templates.",
+      "url": "https://github.com/nxrskyaa/muse-motion-skills"
+    },
+    {
+      "category": "Skills and catalogs",
+      "id": "MH-066",
+      "install_method": "Follow the project’s Plan and Attack workflow guides",
+      "license_class": "MIT",
+      "name": "TGL Muse coding harness",
+      "platform": "See project requirements",
+      "route_tags": [],
+      "summary": "Spec-first Plan and Attack modes with MCP connector and CLI.",
+      "url": "https://github.com/tom-nwachuku/tgl"
+    },
+    {
+      "category": "Devices and wearables",
+      "id": "MH-067",
+      "install_method": "Board-specific",
+      "license_class": "UNKNOWN",
+      "name": "Muse Gadget StackChan",
+      "platform": "See project requirements",
+      "route_tags": [
+        "companion"
+      ],
+      "summary": "Animated head/servos and presence on M5Stack StackChan.",
+      "url": "https://github.com/Tjtelenda/musechan"
+    },
+    {
+      "category": "Devices and wearables",
+      "id": "MH-068",
+      "install_method": "Board-specific firmware",
+      "license_class": "UNKNOWN",
+      "name": "Muse Gadget Waveshare",
+      "platform": "See project requirements",
+      "route_tags": [],
+      "summary": "ESP32-S3 LCD/AMOLED variants and media replies.",
+      "url": "https://github.com/wupsbr/waveshare-muse-gadget-sdk"
+    },
+    {
+      "category": "Devices and wearables",
+      "id": "MH-069",
+      "install_method": "Glasses-specific",
+      "license_class": "UNKNOWN",
+      "name": "Muse on Rokid glasses",
+      "platform": "See project requirements",
+      "route_tags": [],
+      "summary": "Rokid glasses bridge with voice and avatar.",
+      "url": "https://github.com/Eis4TY/rokid-muse-aiui"
+    },
+    {
+      "category": "Devices and wearables",
+      "id": "MH-070",
+      "install_method": "Device-specific setup",
+      "license_class": "UNKNOWN",
+      "name": "Muse Portal port",
+      "platform": "Android",
+      "route_tags": [],
+      "summary": "Meta Portal sideloaded Android app for Muse.",
+      "url": "https://github.com/wobsoriano/portal-muse"
+    },
+    {
+      "category": "Unofficial backends",
+      "id": "MH-071",
+      "install_method": "Git clone + npm install (after source review); pair with personal SDK token",
+      "license_class": "APACHE_2_0",
+      "name": "wong2 muse-client",
+      "platform": "macOS",
+      "route_tags": [],
+      "summary": "TypeScript client using Gadget SDK pairing and subscribed chat events; supports reply correlation, images, macOS pairing.",
+      "url": "https://github.com/wong2/muse-client"
+    },
+    {
+      "category": "Official SDKs",
+      "id": "MH-074",
+      "install_method": "Use for optional paid/API model backend",
+      "license_class": "SERVICE_OR_DOCS",
+      "name": "Meta Model API developer documentation",
+      "platform": "See project requirements",
+      "route_tags": [],
+      "summary": "Official Muse-model inference API; distinct from personal Muse/Hatch VM and its chat history.",
+      "url": "https://dev.meta.ai/docs/overview"
+    },
+    {
+      "category": "Unofficial backends",
+      "id": "MH-075",
+      "install_method": "Use primary upstream project install path; do not copy private requests",
+      "license_class": "REPORTED_UNVERIFIED",
+      "name": "Muse Bridge bidirectional task contract",
+      "platform": "See project requirements",
+      "route_tags": [
+        "cli",
+        "family"
+      ],
+      "summary": "Request/result protocol with explicit project allowlist, read/write modes, timeout, recovery and returning results to personal Muse.",
+      "url": "https://github.com/buzhidaosm/muse-cli-bridge/blob/main/TASK_BRIDGE.md"
+    },
+    {
+      "category": "Anatomy and research",
+      "id": "MH-076",
+      "install_method": "Use documentation for transport compatibility matrix",
+      "license_class": "REPORTED_UNVERIFIED",
+      "name": "Muse CLI reverse-engineered protocol reference",
+      "platform": "See project requirements",
+      "route_tags": [
+        "cli"
+      ],
+      "summary": "Documents personal Muse gateway Noise/protobuf, request framing, history polling and known response correlation caveats.",
+      "url": "https://github.com/nikships/muse-cli/blob/main/docs/PROTOCOL.md"
+    },
+    {
+      "category": "Anatomy and research",
+      "id": "MH-077",
+      "install_method": "Pin and classify by observed/action/untested flags",
+      "license_class": "REPORTED_UNVERIFIED",
+      "name": "Muse CLI 402-route inventory",
+      "platform": "See project requirements",
+      "route_tags": [
+        "cli"
+      ],
+      "summary": "Current 402-method extracted list; 86 method-root families, 199 POST, 156 GET, 24 PATCH, 21 DELETE and 2 PUT.",
+      "url": "https://github.com/nikships/muse-cli/blob/main/src/muse_cli/routes.json"
+    }
+  ],
+  "last_reviewed": "2026-11-15",
+  "routes": [
+    {
+      "description": "Terminal clients, protocol notes and local coding bridges.",
+      "id": "cli",
+      "notice": "Open conversations, read history, and chat with Muse. Start with the terminal guide for installation and account setup.",
+      "source_ids": [
+        "MH-025",
+        "MH-029",
+        "MH-031",
+        "MH-075",
+        "MH-076",
+        "MH-077"
+      ],
+      "title": "Muse in your terminal"
+    },
+    {
+      "description": "GUI drivers, remote terminal tools and scoped workstation access.",
+      "id": "desktop",
+      "notice": "Choose a tool for your operating system and follow its host setup instructions.",
+      "source_ids": [
+        "MH-004",
+        "MH-035",
+        "MH-036",
+        "MH-037",
+        "MH-039",
+        "MH-040"
+      ],
+      "title": "Desktop and computer use"
+    },
+    {
+      "description": "Official wearables news, Gadget SDK and community Watch clients.",
+      "id": "watch",
+      "notice": "Choose your device, then follow the project’s pairing and firmware guide.",
+      "source_ids": [
+        "MH-001",
+        "MH-005",
+        "MH-045",
+        "MH-046",
+        "MH-047",
+        "MH-051"
+      ],
+      "title": "Watches and devices"
+    },
+    {
+      "description": "Task handoffs, collaboration tools and structured results.",
+      "id": "family",
+      "notice": "Explore tools for sharing tasks and passing structured results between assistants.",
+      "source_ids": [
+        "MH-029",
+        "MH-031",
+        "MH-075"
+      ],
+      "title": "Handoffs and collaboration"
+    },
+    {
+      "description": "Tools for debugging, testing and reviewing code.",
+      "id": "doors",
+      "notice": "Tools for reproducing issues, making repairs, and reviewing the results.",
+      "source_ids": [
+        "MH-035",
+        "MH-037",
+        "MH-038"
+      ],
+      "title": "Engineering workflows"
+    },
+    {
+      "description": "Gadget interfaces, interactive companions and media resources.",
+      "id": "companion",
+      "notice": "Find interfaces, animations and device projects for building your own companion.",
+      "source_ids": [
+        "MH-001",
+        "MH-049",
+        "MH-052",
+        "MH-065",
+        "MH-067"
+      ],
+      "title": "Companions and creative tools"
+    }
+  ],
+  "schema": "muse-resource-directory/v2"
+}
